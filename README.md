@@ -2,7 +2,7 @@
 
 <!-- [![coverage report](https://gitlab.com/araffin/stable-baselines3/badges/master/coverage.svg)](https://gitlab.com/araffin/stable-baselines3/-/commits/master) -->
 
-# Cheetah
+# 3D Assets for Particle Accelerators
 
 <!-- <img src="https://github.com/desy-ml/cheetah/raw/master/images/logo.png" align="right" width="25%"/> -->
 
