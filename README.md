@@ -8,6 +8,8 @@
 
 Collection of 3D assets for creating beautiful comic-like 3D renders for particle accelerator lattices.
 
+<img src="images/screen.png" alt="DESY" style="width: 5em;" vspace="2em"/>&nbsp;&nbsp;
+
 ## Where To Find What
 
 Simply install _Cheetah_ from PyPI by running the following command.
@@ -55,7 +57,7 @@ The following people have contributed to these assets:
 
 The development of Cheetah is a joint effort by members of the following institutions:
 
-<img src="https://github.com/desy-ml/cheetah/raw/master/images/desy.png" alt="DESY" style="width: 5em;" vspace="2em"/>&nbsp;&nbsp;
+<img src="images/desy.png" alt="DESY" style="width: 5em;" vspace="2em"/>&nbsp;&nbsp;
 
 ### Funding
 
