@@ -1,4 +1,5 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15880056.svg)](https://doi.org/10.5281/zenodo.15880056)
 
 <!-- [![coverage report](https://gitlab.com/araffin/stable-baselines3/badges/master/coverage.svg)](https://gitlab.com/araffin/stable-baselines3/-/commits/master) -->
 
@@ -34,25 +35,14 @@ That means, it is free to use for academic and non-commercial purposes. **If you
 If you use any of the assets in this repository, please give credit accordingly and cite the following:
 
 ```bibtex
-@article{kaiser2024cheetah,
-    title        = {Bridging the gap between machine learning and particle accelerator physics with high-speed, differentiable simulations},
-    author       = {Kaiser, Jan and Xu, Chenran and Eichler, Annika and Santamaria Garcia, Andrea},
-    year         = 2024,
-    month        = {May},
-    journal      = {Phys. Rev. Accel. Beams},
-    publisher    = {American Physical Society},
-    volume       = 27,
-    pages        = {054601},
-    doi          = {10.1103/PhysRevAccelBeams.27.054601},
-    url          = {https://link.aps.org/doi/10.1103/PhysRevAccelBeams.27.054601},
-    issue        = 5,
-    numpages     = 17
-}
-@inproceedings{stein2022accelerating,
-    title        = {Accelerating Linear Beam Dynamics Simulations for Machine Learning Applications},
-    author       = {Stein, Oliver and Kaiser, Jan and Eichler, Annika},
-    year         = 2022,
-    booktitle    = {Proceedings of the 13th International Particle Accelerator Conference}
+@misc{kaiser2025desyml3dassets,
+    title        = {DESY ML - 3D Assets for Particle Accelerators},
+    author       = {Kaiser, Jan},
+    year         = 2025,
+    publisher    = {GitHub},
+    doi          = {10.5281/zenodo.15880056},
+    url          = {https://github.com/desy-ml/3d-assets},
+    copyright    = {Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence}
 }
 ```
 
