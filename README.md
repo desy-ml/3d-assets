@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 <!-- [![coverage report](https://gitlab.com/araffin/stable-baselines3/badges/master/coverage.svg)](https://gitlab.com/araffin/stable-baselines3/-/commits/master) -->
 
@@ -20,9 +20,18 @@ Collection of 3D assets for creating beautiful comic-like 3D renders for particl
 
 Currently, all 3D models are stored at the root of this repository, in both the original `.blend` format and as exported `.glb` files. All assets are currently prepared for use in [Cheetah](https://github.com/desy-ml/cheetah), that is with their origin at the beam entry point and with all modifiers applied in the `.blend` files. Models that are not scaled by Cheetah (currently only `screen`) are also sized appropriately.
 
-## Cite This Repository
+## Licence and Citation
 
-If you use any of the assets in this repository, please cite the following:
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+If you use any of the assets in this repository, please give credit accordingly and cite the following:
 
 ```bibtex
 @article{kaiser2024cheetah,
