@@ -9,7 +9,7 @@
 Collection of 3D assets for creating beautiful comic-like 3D renders for particle accelerator lattices.
 
 <img src="images/cavity.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
-<img src="images/cavity.gif" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
+<img src="images/cavity.gif" alt="DESY" style="height: 5em; width: 7.694em;" vspace="2em"/>&nbsp;&nbsp;
 <img src="images/screen.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 
 ## Where To Find What
