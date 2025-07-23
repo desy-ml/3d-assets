@@ -24,7 +24,8 @@ Currently, all 3D models are stored at the root of this repository, in both the 
 ## Licence and Citation
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence][cc-by-nc-sa].
-That means, it is free to use for academic and non-commercial purposes. **If you want to use it commercially or have questions, [contact me!](mailto:jan.kaiser@desy.de)**
+An exception is made, where commercial use is permitted specifically for the publication of scientific results in the form of journal articles or conference proceedings.
+**If you want to use these assets in ways not covered by this licence, or have questions, you are welcome to [contact me!](mailto:jan.kaiser@desy.de)**
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
