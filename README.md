@@ -14,6 +14,7 @@ Collection of 3D assets for creating beautiful comic-like 3D renders for particl
 <img src="images/quadrupole.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 <img src="images/horizontal_corrector.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 <img src="images/vertical_corrector.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
+<img src="images/combined_corrector.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 <img src="images/screen.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 <img src="images/undulator.png" alt="DESY" style="height: 5em;" vspace="2em"/>&nbsp;&nbsp;
 
